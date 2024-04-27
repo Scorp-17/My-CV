@@ -1,0 +1,186 @@
+/* Общие стили */
+* {
+    box-sizing: border-box;
+}
+
+@media screen and (min-width: 1440px) and (max-width: 1599px) {}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.background-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    overflow: hidden;
+}
+
+.background-video video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.5;
+}
+
+nav {
+    background-color: #333;
+    position: relative;
+    z-index: 1;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: "Arial", sans-serif;
+    box-sizing: border-box;
+}
+
+nav ul li {
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    /* Цвет текста ссылок */
+    transition: background-color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #555;
+}
+
+.tabs {
+    padding: 20px;
+    position: relative;
+    z-index: 1;
+}
+
+/* Стили для вкладок */
+.tab {
+    display: none;
+}
+
+/* Стили для активной вкладки */
+.tab.active {
+    display: block;
+    box-sizing: border-box;
+}
+
+/* Стили для эффекта перехода */
+.fade {
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+    border-radius: 4px;
+}
+
+.fade.active {
+    opacity: 1;
+    text-align: center;
+    font-family: "Arial", sans-serif;
+    border-radius: 4px;
+}
+
+.text-block {
+    border: 0;
+    border-radius: 4px;
+    padding: 15px;
+    background-blend-mode: normal;
+    box-shadow: 0px 4px 24px 1px rgba(0, 0, 0, 0.28);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    list-style: none;
+    box-sizing: border-box;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+
+    /* Выравнивание текста по центру */
+}
+
+h1,
+h3 {
+    color: #333;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    /* Выравнивание текста по центру */
+}
+
+.photo {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.photo img {
+    width: 250px;
+    height: auto;
+    border-radius: 2%;
+    margin-bottom: 20px;
+    /* Изменено значение на 20px */
+}
+
+.photo a:not(:last-child) img {
+    margin-right: 20px;
+    /* Добавлено значение 20px для отступа между фото */
+}
+
+/* Убрать маркеры в списках */
+.text-block ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* Центрирование текста внутри списка */
+.centered {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 50px;
+}
+
+.centered li {
+    width: 100%;
+    text-align: center;
+}
+
+/* Стили для профессиональных навыков */
+.skills-section {
+    text-align: center;
+    font-family: "Arial", sans-serif;
+}
+
+.skills-section .skill-category {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.skills-section .skill-column {
+    flex-basis: 23%;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+    .skills-section .skill-column {
+        flex-basis: 100%;
+    }
+}
+
+.center-table {
+    margin: 0 auto;
+}
