@@ -6,7 +6,7 @@ I'm currently dabbling in programming. After a long career (more than 10 years o
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [scorpion171178@gmail.com](mailto:scorpion171178@gmail.com)
 * 🧠  I'm learning programming
-* 🤝  I'm open to collaborating [on https://scorp-17.github.io/My-CV/]
+* 🤝  I'm open to collaborating on [https://scorp-17.github.io/My-CV/]
 
 <a href="https://www.github.com/Scorp-17" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Scorp-17?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
