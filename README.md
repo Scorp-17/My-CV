@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pavel
 =============================================================================================================================
 
-В настоящее время я чусь программированию. После длительной карьеры (более 10 лет работы на предприятии по производству железнодорожного транспорта- пассажирские вагоны, поезда метрополитена, электро- и дизель поезда), судьба внесла коррективы в мою жизнь и мне пришлось сделать выбол во благо своей семьи. Имею достаточнвй опыт работы в проектах от НИОКР до создания прототипа, испытаний и запуска его в серийное призводство. Увлекаюсь созданием ботов для телеграм, вайбер, сайтов-воронок. Один из значимых проектов в моем развитии, стал прототип биогазовой установки частного применения. Для реализации проекта была разработана электрическая схема, алгоритм работы, интерфейс мобильного приложения для удаленного мониторинга и управления установкой. Можно ознакомится https://www.youtube.com/watch?v=8PrVTArXJSI.
+I'm currently dabbling in programming. After a long career (more than 10 years of work at a company producing railway transport - passenger cars, metro trains, electric and diesel trains), fate made adjustments to my life and I had to make a choice for the benefit of my family. I have sufficient experience in projects from R&D to creating a prototype, testing and launching it into serial production. I am interested in creating bots for Telegram, Viber, and funnel sites. One of the significant projects in my development was a prototype of a biogas plant for private use. To implement the project, an electrical circuit, an operating algorithm, and a mobile application interface for remote monitoring and control of the installation were developed. You can take a look https://www.youtube.com/watch?v=8PrVTArXJSI.
 
-* 🌍  I'm based in P
+* 🌍  I'm based in Poland
 * ✉️  You can contact me at [scorpion171178@gmail.com](mailto:scorpion171178@gmail.com)
-* 🧠  I'm learning П
+* 🧠  I'm learning programming
 * 🤝  I'm open to collaborating on https://www.youtube.com/watch?v=8PrVTArXJSI
 
 <a href="https://www.github.com/Scorp-17" target="_blank" rel="noreferrer"><img
